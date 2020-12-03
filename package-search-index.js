@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.CSI5324"},{"l":"com.CSI5324.aspect"},{"l":"com.CSI5324.controller"},{"l":"com.CSI5324.model"},{"l":"com.CSI5324.repository"},{"l":"com.CSI5324.services"}]
